@@ -40,6 +40,10 @@ function findNumber(params) {
 findNumber()
 
 
+
+
+
+
 // 1 мисол
 let q = 9;
 let w = 4;
@@ -89,4 +93,5 @@ findEven (e)
     }
 
 
-
+// nkmkllll это для githup изменения
+let ff = 22;
